@@ -4,17 +4,17 @@ Diabetes Prediction using Machine Learning Algorithms
 
 In our project on "Diabetes Prediction using Machine Learning Algorithms," we followed a structured approach to build and evaluate different machine learning models for predicting diabetes. Here's a summary of our project:
 
-#**1. Exploratory Data Analysis and Data Visualization (EDA):**
+**1. Exploratory Data Analysis and Data Visualization (EDA):**
 
      - I began by conducting EDA and data visualization to understand the dataset and its characteristics.
 
-#**2. Data Correlation:**
+**2. Data Correlation:**
 
      - Then I analyzed the data correlation to identify relationships and dependencies among variables.
 
 # Model Building     
 
-#**1. Random Forest Model:**
+**1. Random Forest Model:**
 
      - First built a machine-learning model using the Random Forest algorithm.
      
@@ -22,19 +22,19 @@ In our project on "Diabetes Prediction using Machine Learning Algorithms," we fo
      
      - The precision, recall, and F1 scores for class 0 and class 1 were also presented.
 
-#**2. Decision Tree Model:**
+**2. Decision Tree Model:**
 
      - Implemented a Decision Tree model for diabetes prediction.
      
      - The model achieved an accuracy score of 0.740, with associated precision, recall, and F1-score values.
 
-#**3. XGBoost Model:**
+**3. XGBoost Model:**
 
      - **Next,** we used the XGBoost classifier to create another predictive model.
      
      - The XGBoost model achieved an accuracy score 0.724, with precision, recall, and F1-score metrics provided.
 
-#**4. Support Vector Machine (SVM) Model:**
+**4. Support Vector Machine (SVM) Model:**
 
      - Then explored the Support Vector Machine as another modeling technique.
      
