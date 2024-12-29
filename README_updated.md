@@ -42,7 +42,7 @@ In our project on "Diabetes Prediction using Machine Learning Algorithms," we fo
 
 # Conclusion:
 
-After evaluating these machine learning models, we concluded that the Random Forest model performed the best with an accuracy score of 0.802.
+After evaluating these machine learning models, we concluded that the Random Forest model performed the best with an accuracy score of 0.78
 This model is considered the most reliable for predicting diabetes based on your dataset.
 
 We highlighted that the project not only focused on model building but also involved data analysis and visualization, enabling insights to be drawn from the data.
@@ -51,7 +51,7 @@ Our project showcases a systematic approach to solving a real-world problem usin
 ## How to Use the Gradio Application
 
 1. **Run the Application:**
-   - Execute the command `python gradio_app.py` in your terminal to start the Gradio application.
+   - Execute the command `python gradio_app_fixed.py` in your terminal to start the Gradio application.
 
 2. **Access the Application:**
    - Open your web browser and navigate to `http://127.0.0.1:7860` to access the application interface.
